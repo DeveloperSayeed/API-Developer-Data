@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.table > tbody {
+  vertical-align: middle !important;
+}
+/*# sourceMappingURL=style.css.map */
